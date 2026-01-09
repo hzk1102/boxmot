@@ -62,4 +62,8 @@ boxmot/motion/cmc/*.jpg
 *.jpg
 
 # not demo
-boxmot/*
+boxmot/
+reid-data/
+log/
+datasets/
+MOT17/
