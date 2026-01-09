@@ -60,3 +60,6 @@ boxmot/motion/cmc/*.jpg
 *_output.json
 
 *.jpg
+
+# not demo
+boxmot/*
